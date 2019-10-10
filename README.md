@@ -5,3 +5,4 @@ sql refs
 ```mysql>CREATE DATABASE <DATABASENAME>;```
 
 
+This was a test repo I made as i was exploring the wonders of Github
